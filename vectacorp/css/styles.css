@@ -1,0 +1,11 @@
+.container-fluid.main{
+    position: absolute;
+    padding: 10px;
+    top: 20px;
+}
+.carousel{
+    z-index: -1;
+}
+.colorcode{
+    color: black;
+}
